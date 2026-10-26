@@ -1,6 +1,6 @@
 ### Hi, I'm Rijndert
 
-I'm a research technician turned PhD candidate in the [Rios group (Dream3D Lab)](https://www.dream3dlab.com) at the Princess Máxima Center for Pediatric Oncology in Utrecht. For the past 10 years I've worked on **human organoid models**, **3D microscopy** and **single-cell transcriptomics**, and I've done the analysis myself.
+I'm a research technician turned PhD candidate in the [Rios group (Dream3D Lab)](https://www.dream3dlab.com) at the Princess Máxima Center for Pediatric Oncology in Utrecht. For the past 10 years I've worked on **human organoid models**, **3D microscopy** and **single-cell transcriptomics**.
 
 **What I work on**
 - Building and characterising brain organoid models, most recently a brainstem organoid model of diffuse midline glioma
